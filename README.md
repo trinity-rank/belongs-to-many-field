@@ -2,10 +2,14 @@
 
 Belongs To Many Field to represent many to many relationship in field.
 
+- Laravel Nova 4
+- Vue 3
+- Dark mode support
+
 ## Installation
 You can require this package using composer:
 
-```composer require trinity-rank/belongs-to-many-field```
+```composer require trinityrank/belongs-to-many-field```
 
 ## Usage
 In the nova resource you need to pass:
