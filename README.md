@@ -1,4 +1,4 @@
-# Belongs To Many Field For Laraver Nova 4
+# Belongs To Many Field For Laravel Nova 4
 
 Belongs To Many Field to represent many to many relationship in field.
 
